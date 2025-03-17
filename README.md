@@ -1,11 +1,4 @@
-# Asad Arshad 
-### Programming 
-##### Java 
+# Hi, im Asad Arshad 
 
-##### Python
-
-##### C++
-
-##### Misc
 
 
