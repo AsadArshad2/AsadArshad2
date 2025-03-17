@@ -1,4 +1,4 @@
-# Hi, im Asad Arshad  👋 👨‍💻 
-
+# Asad Arshad  👋 👨‍💻 
+- Second Year Computer Science Undergraduate 
 
 
